@@ -1,0 +1,4 @@
+#Fri Nov 03 23:37:20 PET 2023
+base.0=D\:\\FLUTTER\\TAREAS\\calculaApp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
